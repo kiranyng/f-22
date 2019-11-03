@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "F-22 Raptor NRF Transmitter",
+			"path": "F-22 Raptor NRF Transmitter"
+		},
+		{
+			"name": "F-22 Raptor NRF Reciever",
+			"path": "F-22 Raptor NRF Reciever"
+		},
+		{
+			"path": "F22-Raptor-NRF-Nano"
+		}
+	]
+}
